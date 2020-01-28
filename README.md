@@ -1,4 +1,4 @@
-## Journal
+## Popular Articles
 ## Features:
 
 1. MVVM, LiveData
